@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BlogGallert_deploy/static/css/main.06ec9cfa.chunk.css",
+    "main.js": "/BlogGallert_deploy/static/js/main.a677dc8b.chunk.js",
+    "main.js.map": "/BlogGallert_deploy/static/js/main.a677dc8b.chunk.js.map",
+    "runtime-main.js": "/BlogGallert_deploy/static/js/runtime-main.1358ca2b.js",
+    "runtime-main.js.map": "/BlogGallert_deploy/static/js/runtime-main.1358ca2b.js.map",
+    "static/css/2.83342f34.chunk.css": "/BlogGallert_deploy/static/css/2.83342f34.chunk.css",
+    "static/js/2.073c3a53.chunk.js": "/BlogGallert_deploy/static/js/2.073c3a53.chunk.js",
+    "static/js/2.073c3a53.chunk.js.map": "/BlogGallert_deploy/static/js/2.073c3a53.chunk.js.map",
+    "index.html": "/BlogGallert_deploy/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/BlogGallert_deploy/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.06ec9cfa.chunk.css.map": "/BlogGallert_deploy/static/css/main.06ec9cfa.chunk.css.map",
+    "static/js/2.073c3a53.chunk.js.LICENSE.txt": "/BlogGallert_deploy/static/js/2.073c3a53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1358ca2b.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.073c3a53.chunk.js",
+    "static/css/main.06ec9cfa.chunk.css",
+    "static/js/main.a677dc8b.chunk.js"
+  ]
+}
